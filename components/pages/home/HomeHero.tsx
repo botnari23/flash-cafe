@@ -20,7 +20,7 @@ export default function HomeHero() {
           What time is it?
         </p>
         <p className="text-3xl md:text-5xl font-bold uppercase bg-gray-700/80 text-white px-4 py-1 rounded-md">
-          It's coffee time.
+          It&apos;s coffee time.
         </p>
       </div>
 
